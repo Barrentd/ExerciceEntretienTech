@@ -24,7 +24,7 @@ def compute_join_point(s_1,s_2):
             return compute_join_point(s_1,s_2)
 
 def main():
-    s_1 = 47
+    s_1 = 101
     s_2 = 5
     res = compute_join_point(s_1,s_2)
     print(res)
