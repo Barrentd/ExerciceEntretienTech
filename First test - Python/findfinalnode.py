@@ -5,7 +5,7 @@
 
 def find_network_endpoint(start_node_id, from_ids, to_ids):
 
-    """[summary]"""
+    """Browse the array to find the final node"""
 
     for index, val1 in enumerate(from_ids):
         #print(start_node_id)
