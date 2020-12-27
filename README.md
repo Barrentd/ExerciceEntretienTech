@@ -9,7 +9,7 @@ Where I store the different coding exercises that have been submitted to me for 
 
 ### Network for final node exercice
 
- ```
+ ```mermaid
  graph LR
   A(7) --> C(3)
   B(1) --> C(3)
