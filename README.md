@@ -22,5 +22,5 @@ Where I store the different coding exercises that have been submitted to me for 
 
  ## C#
  - Find the formulapath of a file
- - Find returns fizz or buzz depending on the number
+ - Returns fizz or buzz depending on the number
  - Find the largest number in a list
