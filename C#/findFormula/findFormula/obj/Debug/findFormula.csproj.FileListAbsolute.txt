@@ -1,0 +1,7 @@
+C:\Users\Archie\Documents\C#\C# test\findFormula\findFormula\bin\Debug\findFormula.exe.config
+C:\Users\Archie\Documents\C#\C# test\findFormula\findFormula\bin\Debug\findFormula.exe
+C:\Users\Archie\Documents\C#\C# test\findFormula\findFormula\bin\Debug\findFormula.pdb
+C:\Users\Archie\Documents\C#\C# test\findFormula\findFormula\obj\Debug\findFormula.csprojAssemblyReference.cache
+C:\Users\Archie\Documents\C#\C# test\findFormula\findFormula\obj\Debug\findFormula.csproj.CoreCompileInputs.cache
+C:\Users\Archie\Documents\C#\C# test\findFormula\findFormula\obj\Debug\findFormula.exe
+C:\Users\Archie\Documents\C#\C# test\findFormula\findFormula\obj\Debug\findFormula.pdb

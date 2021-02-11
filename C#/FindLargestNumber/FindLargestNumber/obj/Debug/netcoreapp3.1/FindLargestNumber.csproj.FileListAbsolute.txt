@@ -1,0 +1,13 @@
+C:\Users\Archie\Documents\C#\C# test\FindLargestNumber\FindLargestNumber\bin\Debug\netcoreapp3.1\FindLargestNumber.exe
+C:\Users\Archie\Documents\C#\C# test\FindLargestNumber\FindLargestNumber\bin\Debug\netcoreapp3.1\FindLargestNumber.deps.json
+C:\Users\Archie\Documents\C#\C# test\FindLargestNumber\FindLargestNumber\bin\Debug\netcoreapp3.1\FindLargestNumber.runtimeconfig.json
+C:\Users\Archie\Documents\C#\C# test\FindLargestNumber\FindLargestNumber\bin\Debug\netcoreapp3.1\FindLargestNumber.runtimeconfig.dev.json
+C:\Users\Archie\Documents\C#\C# test\FindLargestNumber\FindLargestNumber\bin\Debug\netcoreapp3.1\FindLargestNumber.dll
+C:\Users\Archie\Documents\C#\C# test\FindLargestNumber\FindLargestNumber\bin\Debug\netcoreapp3.1\FindLargestNumber.pdb
+C:\Users\Archie\Documents\C#\C# test\FindLargestNumber\FindLargestNumber\obj\Debug\netcoreapp3.1\FindLargestNumber.csprojAssemblyReference.cache
+C:\Users\Archie\Documents\C#\C# test\FindLargestNumber\FindLargestNumber\obj\Debug\netcoreapp3.1\FindLargestNumber.AssemblyInfoInputs.cache
+C:\Users\Archie\Documents\C#\C# test\FindLargestNumber\FindLargestNumber\obj\Debug\netcoreapp3.1\FindLargestNumber.AssemblyInfo.cs
+C:\Users\Archie\Documents\C#\C# test\FindLargestNumber\FindLargestNumber\obj\Debug\netcoreapp3.1\FindLargestNumber.csproj.CoreCompileInputs.cache
+C:\Users\Archie\Documents\C#\C# test\FindLargestNumber\FindLargestNumber\obj\Debug\netcoreapp3.1\FindLargestNumber.dll
+C:\Users\Archie\Documents\C#\C# test\FindLargestNumber\FindLargestNumber\obj\Debug\netcoreapp3.1\FindLargestNumber.pdb
+C:\Users\Archie\Documents\C#\C# test\FindLargestNumber\FindLargestNumber\obj\Debug\netcoreapp3.1\FindLargestNumber.genruntimeconfig.cache
